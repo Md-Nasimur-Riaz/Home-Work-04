@@ -1,0 +1,32 @@
+h1 span{
+    color: red;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url(./PermanentMarker-Regular.ttf);
+  }
+  h4 {
+    font-family: myFirstFont;
+  }
+img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.link{
+color: darkgoldenrod;
+}
+.first{
+    background-image: url(./2.jpg);
+    height: 400px;
+    color: azure;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h5{
+  color: blueviolet;
+}
